@@ -1,4 +1,4 @@
-bot_token = "183531221:AAHqvpuAkeeOEwkdtTT2g4RC87QhUUDD9es"
-send_api = "https://api.telegram.org/bot"..bot_token
+bot_token = "217977736:AAGrIFgj6GhwQ2scLz3RaQda90gPF0XrgJg"
+send_api = "https://api.telegram.org/bot"spark_antispam_bot
 bot_version = "1.0"
-admingp = -129471512
+admingp = -273810726
